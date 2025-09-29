@@ -190,10 +190,6 @@ cd Prompt-Engineering
 # Navigate to the section that matches your needs
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
 ## Contact
 
 For questions, suggestions, or feedback:
