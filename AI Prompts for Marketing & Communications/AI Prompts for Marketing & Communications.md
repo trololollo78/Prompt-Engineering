@@ -499,7 +499,7 @@ This comprehensive guide provides the foundation for implementing AI prompts eff
 
 -----------------------------------
 I'm on here if you want to follow:
-GitHub -  https://github.com/AdilShamim8 <br>
-LinkedIn - https://www.linkedin.com/in/adilshamim8 <br>
-Twitter(x) - https://x.com/adil_shamim8  <br>
+GitHub -  https://github.com/bandirevanth <br>
+ <br>
+Twitter(x) - https://x.com/bandi__revanth  <br>
 

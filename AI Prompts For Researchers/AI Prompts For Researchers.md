@@ -117,8 +117,8 @@ By integrating these prompts into their workflow, researchers can enhance produc
 
 
 I'm on here if you want to follow: <br>
-GitHub -  https://github.com/AdilShamim8  <br>
-LinkedIn - https://www.linkedin.com/in/adilshamim8  <br>
-Twitter(x) - https://x.com/adil_shamim8 <br>
+GitHub -  https://github.com/bandirevanth  <br>
+  <br>
+Twitter(x) - https://x.com/bandi__revanth <br>
 
 

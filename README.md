@@ -1,10 +1,5 @@
 # Prompt Engineering
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/AdilShamim8/Prompt-Engineering?style=social)](https://github.com/AdilShamim8/Prompt-Engineering/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AdilShamim8/Prompt-Engineering?style=social)](https://github.com/AdilShamim8/Prompt-Engineering/network/members)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202025-brightgreen)](https://github.com/AdilShamim8/Prompt-Engineering/commits/main)
-
 A comprehensive repository dedicated to mastering prompt engineering with curated guides, examples, and best practices for optimizing AI interactions across different domains.
 
 ## Overview
@@ -17,14 +12,14 @@ Whether you're a beginner, researcher, student, teacher, business professional, 
 
 This repository is organized into the following main sections to serve different user needs:
 
-### [AI Prompt for Beginners](https://github.com/AdilShamim8/Prompt-Engineering/tree/main/AI%20Prompt%20for%20Beginners)
+### [AI Prompt for Beginners](https://github.com/bandirevanth/Prompt-Engineering/tree/main/AI%20Prompt%20for%20Beginners)
 - Fundamental concepts and terminology
 - Step-by-step guides for getting started
 - Simple and practical prompt examples
 - Common mistakes and how to avoid them
 - Exercises and templates for hands-on learning
 
-### [AI Prompt for Business](https://github.com/AdilShamim8/Prompt-Engineering/tree/main/AI%20Prompt%20for%20Business)
+### [AI Prompt for Business](https://github.com/bandirevanth/Prompt-Engineering/tree/main/AI%20Prompt%20for%20Business)
 - Strategic planning and decision-making prompts
 - Business analysis and competitive intelligence
 - Operational efficiency and process optimization
@@ -32,7 +27,7 @@ This repository is organized into the following main sections to serve different
 - Financial forecasting and scenario planning
 - Leadership development and management coaching
 
-### [AI Prompt for Data Scientists & ML Engineers](https://github.com/AdilShamim8/Prompt-Engineering/tree/main/AI%20Prompt%20for%20Data%20Scientists%20%26%20ML%20Engineers)
+### [AI Prompt for Data Scientists & ML Engineers](https://github.com/bandirevanth/Prompt-Engineering/tree/main/AI%20Prompt%20for%20Data%20Scientists%20%26%20ML%20Engineers)
 - Specialized prompts for data analysis and visualization
 - Model evaluation and interpretation techniques
 - Techniques for dataset exploration and cleaning
@@ -188,7 +183,7 @@ Contributions are welcome and greatly appreciated! Here's how you can contribute
 
 ```bash
 # Clone the Repository
-git clone https://github.com/AdilShamim8/Prompt-Engineering.git
+git clone https://github.com/bandirevanth/Prompt-Engineering.git
 cd Prompt-Engineering
 
 # Explore the Content
@@ -202,14 +197,9 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 ## Contact
 
 For questions, suggestions, or feedback:
-- [Open an issue](https://github.com/AdilShamim8/Prompt-Engineering/issues)
-- Contact the repository owner: [Adil Shamim](https://adilshamim.me/)
+- [Open an issue](https://github.com/bandirevanth/Prompt-Engineering/issues)
 
 ---
-
-<p align="center">
-  <sub>Last updated: September, 2025 </sub>
-</p>
 
 <p align="center">
   <sub>⭐ Star this repository if you find it useful! ⭐</sub>

@@ -128,8 +128,7 @@ By leveraging these tailored AI prompts, educators can save time, enhance creati
 
 
 I'm on here if you want to follow:
-GitHub -  https://github.com/AdilShamim8 
-LinkedIn - https://www.linkedin.com/in/adilshamim8 
-Twitter(x) - https://x.com/adil_shamim8
+GitHub -  https://github.com/bandirevanth 
+Twitter(x) - https://x.com/bandi__revanth
 
 
